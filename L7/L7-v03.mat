@@ -1,0 +1,49 @@
+void plastic Dark_blue_jeans
+0
+0
+5 0.0511 0.0761 0.1267 0.0000 0.1
+
+void plastic Violet_painted_walls005 0.4637 0.3975 0.7094 0.008 0.001
+
+void plastic Plastic_sideboard
+0
+0
+5 0.8689 0.8812 0.8454 0.0383 0.0001
+
+void plastic Whiteboard_door
+0
+0
+5 0.7873 0.8254 0.8392 0.0549 0.0000
+
+void plastic White_painted_corridor_ceiling 
+0
+0
+5 0.8982 0.8716 0.7656 0.0005 0.001
+
+void plastic White_painted_corridor_walls 
+0
+0
+5 0.8150 0.7992 0.7161 0.0005 0.001
+
+void plastic Woodentextured_table_top 
+0
+0
+5 0.3640 0.1871 0.0725 0.08 0.005
+
+void plastic Dark_grey_tiles_4_cm
+0
+0
+5 0.1064 0.1036 0.1019 0.0122 0.001
+
+void plastic OutsideGround_20
+0 
+0 
+5 0.2 0.2 0.2   0 0
+
+# Glazing_DoublePane_Clear: Tau_vis = 0.80; SHGC= 0.72 ; U-Value= 2.71W/m2K 
+# visual transmittance: 80%
+# visual transmissivity: 87%
+void glass Glazing_DoublePane_Clear_80
+0
+0
+3 0.87 0.87 0.87

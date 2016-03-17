@@ -1,0 +1,21 @@
+#!xform skies/London_1108_1330.sky 
+#!xform ./materials.rad
+
+
+!xform M1-v02/GenericFloor_20.rad
+
+!xform M1-v02/GenericCeiling_70.rad
+
+!xform M1-v02/GenericInteriorWall_50.rad
+
+#!xform M1-v02/Glazing_DoublePane_Clear_80.rad
+
+!xform M1-v02/OutsideGround_20.rad
+
+#!xform M1-v02/GenericFurniture_50.rad
+
+!xform M1-v02/WindowFrames_50.rad
+
+!xform M1-v02/Door.rad
+
+#!xform M1-v02/Calc.rad

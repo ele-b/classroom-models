@@ -1,0 +1,23 @@
+#!xform skies/Boulder_CO_1108_1330.sky 
+#!xform ./materials.rad
+
+
+#!xform M5-v01/Calc.rad
+
+#!xform M5-v01/Calc50.rad
+
+!xform M5-v01/Door.rad
+
+!xform M5-v01/GenericCeiling_70.rad
+
+!xform M5-v01/GenericFloor_20.rad
+
+#!xform M5-v01/GenericFurniture_50.rad
+
+!xform M5-v01/GenericInteriorWall_50.rad
+
+#!xform M5-v01/Glazing_DoublePane_Clear_80.rad
+
+!xform M5-v01/OutsideGround_20.rad
+
+!xform M5-v01/WindowFrames_50.rad

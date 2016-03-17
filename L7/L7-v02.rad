@@ -1,0 +1,19 @@
+#!xform skies/Boulder_CO_1108_1330.sky 
+#!xform ./materials.rad
+
+
+!xform L7-v02-obj/GenericFloor_20.rad
+
+!xform L7-v02-obj/GenericCeiling_70.rad
+
+!xform L7-v02-obj/GenericInteriorWall_50.rad
+
+#!xform L7-v02-obj/Glazing_DoublePane_Clear_80.rad
+
+!xform L7-v02-obj/WindowFrames_50.rad
+
+!xform L7-v02-obj/doors.rad
+
+#!xform L7-v02-obj/GenericFurniture_50.rad
+
+!xform L7-v02-obj/OutsideGround_20.rad

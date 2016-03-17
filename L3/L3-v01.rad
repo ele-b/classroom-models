@@ -1,0 +1,21 @@
+#!xform skies/London_Gatwick_1108_1330.sky 
+#!xform ./materials.rad
+
+
+!xform L3-v01/GenericCeiling_70.rad
+
+!xform L3-v01/GenericFloor_20.rad
+
+!xform L3-v01/GenericInteriorWall_50.rad
+
+!xform L3-v01/details.rad
+
+!xform L3-v01/WindowFrames_50.rad
+
+!xform L3-v01/doors.rad
+
+#!xform L3-v01/GenericFurniture_50.rad
+
+!xform L3-v01/door_glass.rad
+
+!xform L3-v01/OutsideGround_20.rad
