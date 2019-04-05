@@ -1,5 +1,5 @@
 # Four classroom models
-This repository contains the 3D models of the case study classrooms used for most of the analyses carried out for my PhD research. The PhD thesis is available ([HERE](https://dspace.lboro.ac.uk/2134/28239)).
+This repository contains the 3D models of the case study classrooms used for most of the analyses carried out for my PhD research. The PhD thesis is available [HERE](https://dspace.lboro.ac.uk/2134/28239).
 These specific classrooms were chosen in accordance with the requirements for another PhD research conducted by my colleague 
 Nafsika Drosou, that aims at providing evidence that will improve the understanding of how building occupants 
 perceive daylight; how they respond to daylight performance due to the building design; and how their needs and actions 
